@@ -86,4 +86,17 @@ section.hero div.hero-description a {
   color: #fff;
   background-color: var(--primary-color);
 }
+
+footer {
+  margin-top: 12rem;
+  margin-bottom: 2.4rem;
+}
+
+footer p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.3rem;
+  line-height: 1.7rem;
+  font-weight: 700;
+  color: var(--footer-color);
+}
 /*# sourceMappingURL=style.css.map */
