@@ -113,4 +113,13 @@ footer p {
   color: var(--footer-color);
   text-align: center;
 }
+
+@media only screen and (min-width: 680px) {
+  section.hero div.hero-img {
+    width: 80%;
+  }
+  section.hero div.hero-description {
+    width: 80%;
+  }
+}
 /*# sourceMappingURL=style.css.map */
