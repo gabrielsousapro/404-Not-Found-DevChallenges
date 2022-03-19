@@ -116,8 +116,8 @@ footer p {
 
 @media only screen and (min-width: 680px) {
   header h1 {
-    font-size: 3.4rem;
-    line-height: 3.5rem;
+    font-size: 2.4rem;
+    line-height: 2.4rem;
     padding: 3rem 0;
   }
   section.hero div.hero-img {
@@ -136,19 +136,22 @@ footer p {
     width: 90%;
   }
   section.hero div.hero-description h1 {
-    font-size: 6.8rem;
-    line-height: 7.8rem;
+    font-size: 6rem;
+    line-height: 7rem;
   }
   section.hero div.hero-description p {
-    font-size: 2.5rem;
-    line-height: 3.5rem;
+    font-size: 2rem;
+    line-height: 3rem;
     margin-top: 5rem;
     margin-bottom: 10rem;
   }
   section.hero div.hero-description a {
-    font-size: 2rem;
+    font-size: 1.4rem;
     line-height: 2rem;
-    padding: 3.4rem 5.3rem;
+    padding: 2.4rem 4.3rem;
+  }
+  footer {
+    margin-top: 5rem;
   }
   footer p {
     font-size: 2.4rem;
