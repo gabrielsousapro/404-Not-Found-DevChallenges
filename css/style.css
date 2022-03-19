@@ -115,11 +115,53 @@ footer p {
 }
 
 @media only screen and (min-width: 680px) {
+  header h1 {
+    font-size: 3.4rem;
+    line-height: 3.5rem;
+    padding: 3rem 0;
+  }
   section.hero div.hero-img {
     width: 80%;
   }
   section.hero div.hero-description {
     width: 80%;
+  }
+}
+
+@media only screen and (min-width: 960px) {
+  section.hero div.hero-img {
+    width: 70%;
+  }
+  section.hero div.hero-description {
+    width: 90%;
+  }
+  section.hero div.hero-description h1 {
+    font-size: 6.8rem;
+    line-height: 7.8rem;
+  }
+  section.hero div.hero-description p {
+    font-size: 2.5rem;
+    line-height: 3.5rem;
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+  }
+  section.hero div.hero-description a {
+    font-size: 2rem;
+    line-height: 2rem;
+    padding: 3.4rem 5.3rem;
+  }
+  footer p {
+    font-size: 2.4rem;
+    padding: 2rem 0;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  section.hero {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
   }
 }
 /*# sourceMappingURL=style.css.map */
