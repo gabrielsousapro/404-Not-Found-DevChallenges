@@ -162,3 +162,39 @@ footer {
         flex-direction: row;
     }
 }
+
+
+@media only screen and (min-width:1200px) {
+    section.hero {
+        div.hero-img {
+            width: 40%;
+        }
+
+        div.hero-description {
+            width: 50%;
+
+            h1 {
+                width: 90%;
+
+            }
+
+            p {
+                width: 70%;
+
+            }
+    
+        }
+    }
+}
+
+@media only screen and (min-width: 1600px) {
+    section.hero {
+        div.hero-img {
+            width: 40%;
+        }
+
+        div.hero-description {
+            width: 60%;
+        }
+    }
+}
