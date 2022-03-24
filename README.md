@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 Not Found Page}</h1>
+<h1 align="center">404 Not Found Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{gabrielsousapro.github.io/404-Not-Found-DevChallenges/}">
+    <a href="https://gabrielsousapro.github.io/404-Not-Found-DevChallenges/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/YMXL38cMb3UDjNEN2uLO">
       Solution
     </a>
     <span> | </span>
@@ -64,5 +64,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/gabrielsousapro})
+- GitHub [@gabrielsousapro](https://{github.com/gabrielsousapro})
 - E-mail sousadev.pro@gmail.com
